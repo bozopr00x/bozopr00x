@@ -428,7 +428,7 @@ This profile and associated projects are licensed under various terms. Please re
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-**© 2024 BOZOPr00x | Digital Fortress | Advanced Security Solutions**
+**© 2025 BOZOPr00x | Digital Fortress | Advanced Security Solutions**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=4000&pause=2000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+digital+fortress!;Stay+secure%2C+stay+innovative!;Building+tomorrow's+protection+today." alt="Footer Message"/>
 
