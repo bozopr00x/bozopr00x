@@ -4,7 +4,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=BOZOPr00x&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Phantom%20Security%20%7C%20Digital%20Shadows%20%7C%20Elite%20Protection&descAlignY=51&descAlign=50"/>
 
 <!-- Dark Anime Character Banner -->
-<img width="100%" src="[https://i.imgur.com/jxgzKJh.png](https://i.pinimg.com/736x/f9/35/58/f93558ae63d92a119196ff8ddd790d93.jpg)" alt="Dark Anime Character Banner"/>
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://i.pinimg.com/736x/f9/35/58/f93558ae63d92a119196ff8ddd790d93.jpg" alt="Dark Anime Character"/>
+</td>
+<td width="50%">
+<img width="100%" src="https://i.pinimg.com/736x/27/e2/3b/27e23ba70944306a687162bae3ca09d8.jpg" alt="Dark Anime Character Smoking"/>
+</td>
+</tr>
+</table>
 
 <!-- Typing Animation with Darker Theme -->
 <a href="https://git.io/typing-svg">
@@ -55,7 +64,7 @@
 
 </div>
 
-<img align="right" alt="Dark Anime Character" width="400" src="https://i.imgur.com/RXPCvAB.gif">
+<img align="right" alt="Dark Anime Character" width="400" src="https://i.pinimg.com/736x/f9/35/58/f93558ae63d92a119196ff8ddd790d93.jpg">
 
 ```typescript
 class PhantomLord {
@@ -103,62 +112,62 @@ class PhantomLord {
 
 ### 🔧 Weapons & Incantations
 
-<table>
+<table bgcolor="#000000">
 <tr>
-<td align="center" width="96" bgcolor="#000000">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><span style="color:#800000">JavaScript</span>
+<br><font color="#800000">JavaScript</font>
 </td>
-<td align="center" width="96" bgcolor="#000000">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br><span style="color:#800000">TypeScript</span>
+<br><font color="#800000">TypeScript</font>
 </td>
-<td align="center" width="96" bgcolor="#000000">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><span style="color:#800000">Python</span>
+<br><font color="#800000">Python</font>
 </td>
-<td align="center" width="96" bgcolor="#000000">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br><span style="color:#800000">C++</span>
+<br><font color="#800000">C++</font>
 </td>
-<td align="center" width="96" bgcolor="#000000">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-<br><span style="color:#800000">Rust</span>
+<br><font color="#800000">Rust</font>
 </td>
-<td align="center" width="96" bgcolor="#000000">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=wasm" width="48" height="48" alt="WebAssembly" />
-<br><span style="color:#800000">WebAssembly</span>
+<br><font color="#800000">WebAssembly</font>
 </td>
 </tr>
 </table>
 
 ### 🛡️ Dark Arts & Forbidden Tools
 
-<table>
+<table bgcolor="#000000">
 <tr>
-<td align="center" width="96" bgcolor="#000000">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br><span style="color:#800000">Docker</span>
+<br><font color="#800000">Docker</font>
 </td>
-<td align="center" width="96" bgcolor="#000000">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br><span style="color:#800000">Linux</span>
+<br><font color="#800000">Linux</font>
 </td>
-<td align="center" width="96" bgcolor="#000000">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><span style="color:#800000">Git</span>
+<br><font color="#800000">Git</font>
 </td>
-<td align="center" width="96" bgcolor="#000000">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br><span style="color:#800000">GitHub</span>
+<br><font color="#800000">GitHub</font>
 </td>
-<td align="center" width="96" bgcolor="#000000">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><span style="color:#800000">VS Code</span>
+<br><font color="#800000">VS Code</font>
 </td>
-<td align="center" width="96" bgcolor="#000000">
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim" />
-<br><span style="color:#800000">Vim</span>
+<br><font color="#800000">Vim</font>
 </td>
 </tr>
 </table>
@@ -177,7 +186,7 @@ class PhantomLord {
 
 <table>
 <tr>
-<td width="50%" bgcolor="#0D0D0D">
+<td width="50%">
 
 ### 🔒 [BOZO Nightmare Suite](https://github.com/bozopr00x/BOZO-Professional-Suite)
 
@@ -190,7 +199,7 @@ class PhantomLord {
 - 🔧 Existence stabilization protocols
 
 </td>
-<td width="50%" bgcolor="#0D0D0D">
+<td width="50%">
 
 ### 🎮 [Discord Phantom Tool](https://github.com/bozopr00x/Discord-Badge-Tool)
 
@@ -264,7 +273,7 @@ class PhantomLord {
 
 <table>
 <tr>
-<td width="50%" bgcolor="#0D0D0D">
+<td width="50%">
 
 #### 🔐 **Dark Arts Mastery**
 ```
@@ -285,7 +294,7 @@ Spectral Monitoring             ████████████ 95%
 ```
 
 </td>
-<td width="50%" bgcolor="#0D0D0D">
+<td width="50%">
 
 #### 🚀 **Forbidden Technologies**
 ```
@@ -330,21 +339,25 @@ Void Response                    ███████      75%
 
 <table>
 <tr>
-<td align="center" bgcolor="#000000">
+<td align="center">
 <a href="mailto:sxbpower091@gmail.com">
 <img src="https://img.shields.io/badge/Summon-800000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </td>
-<td align="center" bgcolor="#000000">
+<td align="center">
 <a href="https://github.com/bozopr00x">
 <img src="https://img.shields.io/badge/Void-000000?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"/>
 </a>
 </td>
-<td align="center" bgcolor="#000000">
+<td align="center">
 <a href="https://linkedin.com/in/bozopr00x">
 <img src="https://img.shields.io/badge/Network-800000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </td>
-<td align="center" bgcolor="#000000">
+<td align="center">
 <a href="https://twitter.com/bozopr00x">
-<img src="https://img.shields.io/badge/Whispers-000000?style=for-the-badge&logo=twitter&logoColor=red"
+<img src="https://img.shields.io/badge/Whispers-000000?style=for-the-badge&logo=twitter&logoColor=red" alt="Twitter"/>
+</a>
+</td>
+</tr>
+</
