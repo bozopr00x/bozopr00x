@@ -115,6 +115,14 @@ class PhantomLord {
 <table bgcolor="#000000">
 <tr>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<br><font color="#800000">HTML</font>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+<br><font color="#800000">CSS</font>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 <br><font color="#800000">JavaScript</font>
 </td>
