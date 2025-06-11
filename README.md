@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=BOZOPr00x&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Phantom%20Security%20%7C%20Digital%20Shadows%20%7C%20Elite%20Protection&descAlignY=51&descAlign=50"/>
 
 <!-- Dark Anime Character Banner -->
-<img width="100%" src="https://i.imgur.com/jxgzKJh.png" alt="Dark Anime Character Banner"/>
+<img width="100%" src="[https://i.imgur.com/jxgzKJh.png](https://i.pinimg.com/736x/f9/35/58/f93558ae63d92a119196ff8ddd790d93.jpg)" alt="Dark Anime Character Banner"/>
 
 <!-- Typing Animation with Darker Theme -->
 <a href="https://git.io/typing-svg">
