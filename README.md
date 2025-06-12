@@ -1,116 +1,205 @@
 <div align="center">
 
-<!-- Animated Header with Dark Theme -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=BOZOPr00x&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Phantom%20Security%20%7C%20Digital%20Shadows%20%7C%20Elite%20Protection&descAlignY=51&descAlign=50"/>
+<!-- Enhanced Animated Header with Soviet Power -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=BOZOPr00x&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=☭%20PHANTOM%20SECURITY%20☭%20DIGITAL%20SHADOWS%20☭%20ELITE%20PROTECTION%20☭&descAlignY=55&descAlign=50&descSize=18"/>
 
-<!-- Dark Anime Character Banner -->
-<table>
+<!-- Enhanced Dark Character Showcase with Hover Effects -->
+<div style="position: relative; overflow: hidden; border-radius: 15px; box-shadow: 0 0 30px rgba(128, 0, 0, 0.5);">
+<table style="border-collapse: collapse; background: linear-gradient(45deg, #000000, #1a0000, #000000);">
 <tr>
-<td width="50%">
-<img width="100%" src="https://i.pinimg.com/736x/f9/35/58/f93558ae63d92a119196ff8ddd790d93.jpg" alt="Dark Anime Character"/>
+<td width="50%" style="position: relative;">
+<img width="100%" src="https://i.pinimg.com/736x/f9/35/58/f93558ae63d92a119196ff8ddd790d93.jpg" alt="Dark Anime Character" style="filter: brightness(0.9) contrast(1.2); transition: all 0.3s ease;"/>
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(45deg, transparent, rgba(128, 0, 0, 0.1), transparent); opacity: 0.7;"></div>
 </td>
-<td width="50%">
-<img width="100%" src="https://i.pinimg.com/736x/27/e2/3b/27e23ba70944306a687162bae3ca09d8.jpg" alt="Dark Anime Character Smoking"/>
+<td width="50%" style="position: relative;">
+<img width="100%" src="https://i.pinimg.com/736x/27/e2/3b/27e23ba70944306a687162bae3ca09d8.jpg" alt="Dark Anime Character Smoking" style="filter: brightness(0.9) contrast(1.2); transition: all 0.3s ease;"/>
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(-45deg, transparent, rgba(128, 0, 0, 0.1), transparent); opacity: 0.7;"></div>
 </td>
 </tr>
 </table>
+</div>
 
-<!-- Typing Animation with Darker Theme -->
+<!-- Enhanced Typing Animation with Soviet Power -->
+<div style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, rgba(0,0,0,0.8), rgba(128,0,0,0.1)); border-radius: 15px; border: 2px solid rgba(128,0,0,0.3);">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=800000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=WELCOME+TO+THE+VOID;SECURITY+%7C+STEALTH+%7C+DOMINANCE;WHERE+NIGHTMARES+PROTECT+YOUR+DREAMS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&width=700&height=120&lines=★+WELCOME+TO+THE+VOID+★;☭+SECURITY+%7C+STEALTH+%7C+DOMINANCE+☭;▲+WHERE+NIGHTMARES+PROTECT+YOUR+DREAMS+▲;⚠+ENTER+IF+YOU+DARE+⚠" alt="Enhanced Typing SVG" />
 </a>
+</div>
 
-<!-- Professional Badges with Darker Theme -->
+<!-- Enhanced Professional Badges with Soviet Authority -->
+<div style="background: linear-gradient(90deg, rgba(0,0,0,0.9), rgba(128,0,0,0.2), rgba(0,0,0,0.9)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="center">
-  <img src="https://img.shields.io/badge/PHANTOM-SECURITY-800000?style=for-the-badge&logo=ghost&logoColor=white" alt="Phantom Security"/>
-  <img src="https://img.shields.io/badge/SYSTEM-DOMINATION-000000?style=for-the-badge&logo=target&logoColor=red" alt="System Domination"/>
-  <img src="https://img.shields.io/badge/CODE-OBLIVION-333333?style=for-the-badge&logo=codepen&logoColor=blood" alt="Code Oblivion"/>
-  <img src="https://img.shields.io/badge/LEVEL-NIGHTMARE-8B0000?style=for-the-badge&logo=hackaday&logoColor=black" alt="Nightmare Level"/>
+  <img src="https://img.shields.io/badge/★_PHANTOM-SECURITY-FF0000?style=for-the-badge&logo=ghost&logoColor=white&labelColor=000000" alt="Phantom Security"/>
+  <img src="https://img.shields.io/badge/☭_SYSTEM-DOMINATION-8B0000?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" alt="System Domination"/>
+  <img src="https://img.shields.io/badge/▲_CODE-OBLIVION-FF4500?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000" alt="Code Oblivion"/>
+  <img src="https://img.shields.io/badge/⚠_LEVEL-NIGHTMARE-DC143C?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=000000" alt="Nightmare Level"/>
 </p>
+</div>
 
-<!-- Dynamic Stats Badges -->
+<!-- Enhanced Dynamic Stats with Soviet Power -->
+<div style="background: radial-gradient(circle, rgba(128,0,0,0.1), rgba(0,0,0,0.9)); padding: 15px; border-radius: 10px; border: 1px solid rgba(255,0,0,0.3);">
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bozopr00x&label=SOULS%20CAPTURED&color=800000&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/bozopr00x?label=FOLLOWERS&style=for-the-badge&color=000000&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/bozopr00x?label=STARS%20COLLECTED&style=for-the-badge&color=8B0000&logo=apachespark" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=bozopr00x&label=☠%20SOULS%20CAPTURED&color=FF0000&style=for-the-badge&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/bozopr00x?label=★%20COMRADES&style=for-the-badge&color=8B0000&logo=github&logoColor=white&labelColor=000000" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/bozopr00x?label=☭%20STARS%20COLLECTED&style=for-the-badge&color=FF4500&logo=apachespark&logoColor=white&labelColor=000000" alt="GitHub Stars" />
 </p>
+</div>
+
+<!-- Live Status Indicators -->
+<div align="center" style="margin: 15px 0;">
+<img src="https://img.shields.io/badge/STATUS-●%20OPERATIONAL-00FF00?style=flat-square&labelColor=000000" alt="Online Status"/>
+<img src="https://img.shields.io/badge/THREAT%20LEVEL-▲%20MAXIMUM-FF0000?style=flat-square&labelColor=000000" alt="Threat Level"/>
+<img src="https://img.shields.io/badge/SECURITY-■%20IMPENETRABLE-FFD700?style=flat-square&labelColor=000000" alt="Security Level"/>
+</div>
 
 </div>
 
 ---
-
-## 📋 Table of Contents
-
-<details>
-<summary>🔍 Enter The Abyss</summary>
-
-- [🚀 The Phantom](#-the-phantom)
-- [💻 Arsenal](#-arsenal)
-- [🛡️ Legendary Works](#️-legendary-works)
-- [📊 Power Metrics](#-power-metrics)
-- [🎯 Abilities](#-abilities)
-- [🤝 Shadow Network](#-shadow-network)
-- [📜 Dark Covenant](#-dark-covenant)
-
-</details>
-
----
-
-## 🚀 The Phantom
 
 <div align="center">
 
-### 🔮 Master of Digital Shadows
+## ■ Navigation Portal
+
+<div style="background: linear-gradient(135deg, rgba(0,0,0,0.9), rgba(128,0,0,0.2)); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,0,0,0.3); box-shadow: 0 0 20px rgba(255,0,0,0.2);">
+
+<details>
+<summary style="font-size: 18px; font-weight: bold; color: #FF0000; cursor: pointer;">★ ENTER THE DIGITAL ABYSS ★</summary>
+
+<div style="margin-top: 15px;">
+
+| ▲ **SECTION** | ☭ **PORTAL** | ■ **DESCRIPTION** |
+|:---:|:---:|:---:|
+| ☠ | [★ The Phantom](#-the-phantom) | *Meet the Digital Shadow Master* |
+| ⚔ | [▲ Arsenal](#-arsenal) | *Weapons & Dark Technologies* |
+| ★ | [☭ Legendary Works](#️-legendary-works) | *Artifacts of Digital Power* |
+| ■ | [▲ Power Metrics](#-power-metrics) | *Soul Collection Statistics* |
+| ⚠ | [★ Abilities](#-abilities) | *Forbidden Powers & Skills* |
+| ☭ | [■ Shadow Network](#-shadow-network) | *Contact the Void* |
+| ● | [☠ Live Feed](#-live-feed) | *Real-time Activity Stream* |
 
 </div>
 
-<img align="right" alt="Dark Anime Character" width="400" src="https://i.pinimg.com/736x/f9/35/58/f93558ae63d92a119196ff8ddd790d93.jpg">
+</details>
+
+</div>
+
+</div>
+
+---
+
+## ★ The Phantom
+
+<div align="center">
+
+### ☭ Master of Digital Shadows
+
+<div style="background: linear-gradient(45deg, rgba(0,0,0,0.9), rgba(128,0,0,0.3), rgba(0,0,0,0.9)); padding: 20px; border-radius: 15px; border: 2px solid rgba(255,0,0,0.4); margin: 20px 0;">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=60&lines=☠+DIGITAL+PHANTOM+OVERLORD+☠;★+NIGHTMARE+SECURITY+ARCHITECT+★;☭+VOID+SYSTEM+DOMINATOR+☭" alt="Phantom Title"/>
+
+</div>
+
+</div>
+
+<table>
+<tr>
+<td width="60%">
 
 ```typescript
 class PhantomLord {
   constructor() {
     this.name = "BOZOPr00x";
-    this.title = "The Digital Phantom";
-    this.domain = "The Void Between Systems";
+    this.title = "★ The Digital Phantom ★";
+    this.domain = "☭ The Void Between Systems ☭";
+    this.rank = "☠ NIGHTMARE OVERLORD ☠";
+    this.vodka = "🍺 LIQUID COURAGE PROTOCOL 🍺";
     this.powers = [
-      "Nightmare-Grade Protection",
-      "Soul-Binding Obfuscation", 
-      "System Possession",
-      "Anti-Reality Shields",
-      "Existence Mutation"
+      "■ Nightmare-Grade Protection",
+      "☠ Soul-Binding Obfuscation",
+      "☭ System Possession",
+      "★ Anti-Reality Shields",
+      "▲ Existence Mutation",
+      "● Void Manipulation"
     ];
+    this.status = "● ACTIVELY HUNTING";
   }
 
-  getCurrentHunts() {
+  getCurrentMissions() {
     return [
-      "BOZO Protection System Level NIGHTMARE",
-      "Soul-Trapping WebAssembly Integration",
-      "Reality-Bending Architecture",
-      "Existence-Proof Encryption"
+      "▲ BOZO Protection System Level NIGHTMARE",
+      "☠ Soul-Trapping WebAssembly Integration",
+      "★ Reality-Bending Architecture",
+      "☭ Existence-Proof Encryption",
+      "■ Quantum Security Protocols"
     ];
   }
 
   getCreed() {
-    return "I am the shadow in your system, the whisper in your code, the nightmare that guards your dreams";
+    return `★ I am the shadow in your system,
+            ☠ the whisper in your code,
+            ☭ the nightmare that guards your dreams,
+            ■ the void that protects the light ■`;
+  }
+
+  getThreatLevel() {
+    return "⚠ MAXIMUM SECURITY CLEARANCE ⚠";
+  }
+
+  getVodkaLevel() {
+    return "🍺 COMRADE FUEL: MAXIMUM 🍺";
   }
 }
 ```
 
+</td>
+<td width="40%">
+
 <div align="center">
 
-### 🎯 Dark Oath
+<img width="100%" src="https://i.pinimg.com/736x/f9/35/58/f93558ae63d92a119196ff8ddd790d93.jpg" alt="Dark Anime Character" style="border-radius: 15px; border: 3px solid rgba(255,0,0,0.5); box-shadow: 0 0 25px rgba(255,0,0,0.3); filter: brightness(0.9) contrast(1.1);"/>
 
-*"From the shadows I forge impenetrable barriers. Each line of code is a seal, each function a ward, each system a fortress. What I protect, none shall breach."*
+<div style="margin-top: 15px; padding: 10px; background: rgba(0,0,0,0.8); border-radius: 10px; border: 1px solid rgba(255,0,0,0.3);">
+
+**▲ CURRENT STATUS**
+```
+● ONLINE & HUNTING
+☭ THREAT LEVEL: MAXIMUM
+■ DEFENSES: IMPENETRABLE
+☠ SOULS PROTECTED: ∞
+🍺 VODKA LEVEL: OPTIMAL
+```
+
+</div>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### ▲ Dark Oath
+
+<div style="background: linear-gradient(135deg, rgba(0,0,0,0.9), rgba(128,0,0,0.2)); padding: 25px; border-radius: 15px; border: 2px solid rgba(255,0,0,0.4); margin: 20px 0; box-shadow: 0 0 30px rgba(255,0,0,0.2);">
+
+*"★ From the shadows I forge impenetrable barriers. Each line of code is a seal, each function a ward, each system a fortress. What I protect, none shall breach. ★"*
+
+<div style="margin-top: 15px;">
+<img src="https://img.shields.io/badge/OATH-SWORN%20IN%20VODKA-FF0000?style=for-the-badge&logo=skull-crossbones&logoColor=white&labelColor=000000" alt="Oath Badge"/>
+</div>
+
+</div>
 
 </div>
 
 ---
 
-## 💻 Arsenal
+## ▲ Arsenal
 
 <div align="center">
 
-### 🔧 Weapons & Incantations
+### ⚔ Weapons & Incantations
 
 <table bgcolor="#000000">
 <tr>
@@ -149,7 +238,7 @@ class PhantomLord {
 </tr>
 </table>
 
-### 🛡️ Dark Arts & Forbidden Tools
+### ■ Dark Arts & Forbidden Tools
 
 <table bgcolor="#000000">
 <tr>
@@ -184,11 +273,11 @@ class PhantomLord {
 
 ---
 
-## 🛡️ Legendary Works
+## ☭ Legendary Works
 
 <div align="center">
 
-### 🔥 Artifacts of Power
+### ★ Artifacts of Power
 
 </div>
 
@@ -196,28 +285,28 @@ class PhantomLord {
 <tr>
 <td width="50%">
 
-### 🔒 [BOZO Nightmare Suite](https://github.com/bozopr00x/BOZO-Professional-Suite)
+### ☠ [BOZO Nightmare Suite](https://github.com/bozopr00x/BOZO-Professional-Suite)
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=bozopr00x&repo=BOZO-Professional-Suite&theme=dark&hide_border=true&bg_color=000000&title_color=800000&text_color=ffffff&icon_color=800000" alt="BOZO Professional Suite"/>
 
-**🎯 System Soul Harvester**
-- 🛡️ Reality-warping performance control
-- ⚡ Memory & CPU possession
-- 🎨 Void-themed interface
-- 🔧 Existence stabilization protocols
+**▲ System Soul Harvester**
+- ■ Reality-warping performance control
+- ☭ Memory & CPU possession
+- ★ Void-themed interface
+- ⚔ Existence stabilization protocols
 
 </td>
 <td width="50%">
 
-### 🎮 [Discord Phantom Tool](https://github.com/bozopr00x/Discord-Badge-Tool)
+### ⚔ [Discord Phantom Tool](https://github.com/bozopr00x/Discord-Badge-Tool)
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=bozopr00x&repo=Discord-Badge-Tool&theme=dark&hide_border=true&bg_color=000000&title_color=800000&text_color=ffffff&icon_color=800000" alt="Discord Badge Tool"/>
 
-**🏆 Soul Binding Utility**
-- 🐍 Python-based dark magic
-- 🎯 Shadow interface
-- ⚡ Spectral performance
-- 👥 Accessible to all who dare
+**★ Soul Binding Utility**
+- ☠ Python-based dark magic
+- ▲ Shadow interface
+- ☭ Spectral performance
+- ■ Accessible to all who dare
 
 </td>
 </tr>
@@ -225,22 +314,22 @@ class PhantomLord {
 
 <div align="center">
 
-### 🔥 Forbidden Archives
+### ★ Forbidden Archives
 
 | Project | Description | Dark Arts |
 |---------|-------------|-----------|
-| 🌐 **Void Portal** | Personal gateway to the abyss | ![HTML](https://img.shields.io/badge/-HTML-800000?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3&logoColor=red) ![JS](https://img.shields.io/badge/-JavaScript-800000?style=flat-square&logo=javascript&logoColor=black) |
-| 💻 **Nostalgia Trap** | Soul-capturing system recreation | ![JavaScript](https://img.shields.io/badge/-JavaScript-800000?style=flat-square&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3&logoColor=red) |
+| ☭ **Void Portal** | Personal gateway to the abyss | ![HTML](https://img.shields.io/badge/-HTML-800000?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3&logoColor=red) ![JS](https://img.shields.io/badge/-JavaScript-800000?style=flat-square&logo=javascript&logoColor=black) |
+| ■ **Nostalgia Trap** | Soul-capturing system recreation | ![JavaScript](https://img.shields.io/badge/-JavaScript-800000?style=flat-square&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3&logoColor=red) |
 
 </div>
 
 ---
 
-## 📊 Power Metrics
+## ▲ Power Metrics
 
 <div align="center">
 
-### 📈 Soul Collection Statistics
+### ■ Soul Collection Statistics
 
 <table>
 <tr>
@@ -339,33 +428,164 @@ Void Response                    ███████      75%
 
 ---
 
+## ⚡ Live Feed
+
+<div align="center">
+
+### 🔥 Real-time Activity Stream
+
+<div style="background: linear-gradient(135deg, rgba(0,0,0,0.95), rgba(128,0,0,0.2)); padding: 25px; border-radius: 15px; border: 2px solid rgba(255,0,0,0.4); margin: 20px 0;">
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+#### 🎯 Current Operations
+```bash
+[🔴 LIVE] Nightmare Protection Active
+[⚡ SCAN] System Vulnerability Assessment
+[🛡️ GUARD] Repository Security Monitoring
+[👻 HUNT] Threat Detection Protocols
+[🔥 BURN] Code Obfuscation in Progress
+[💀 VOID] Reality Distortion Field Active
+```
+
+</td>
+<td width="50%">
+
+#### 📊 System Vitals
+```yaml
+🔥 Phantom Status: OPERATIONAL
+⚡ Threat Level: MAXIMUM SECURITY
+🛡️ Shields: 100% IMPENETRABLE
+👻 Souls Protected: ∞
+💀 Nightmares Deployed: ACTIVE
+🌑 Void Connection: STABLE
+```
+
+</td>
+</tr>
+</table>
+
+<div style="margin-top: 20px;">
+
+#### 🚨 Latest Phantom Activities
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bozopr00x&theme=react-dark&bg_color=000000&color=FF0000&line=FF4500&point=FFD700&area=true&hide_border=true&custom_title=🔥%20PHANTOM%20SOUL%20HARVESTING%20ACTIVITY%20🔥" alt="Live Activity Graph" width="100%"/>
+
+</div>
+
+<div style="margin-top: 15px;">
+<img src="https://img.shields.io/badge/⚡_LAST_SEEN-JUST_NOW-00FF00?style=for-the-badge&labelColor=000000" alt="Last Seen"/>
+<img src="https://img.shields.io/badge/🔥_COMMITS_TODAY-CLASSIFIED-FF0000?style=for-the-badge&labelColor=000000" alt="Commits Today"/>
+<img src="https://img.shields.io/badge/💀_SOULS_HARVESTED-∞-8B0000?style=for-the-badge&labelColor=000000" alt="Souls Harvested"/>
+</div>
+
+</div>
+
+</div>
+
+---
+
 ## 🤝 Shadow Network
 
 <div align="center">
 
 ### 🌑 Contact The Void
 
-<table>
+<div style="background: linear-gradient(135deg, rgba(0,0,0,0.9), rgba(128,0,0,0.3)); padding: 30px; border-radius: 20px; border: 3px solid rgba(255,0,0,0.5); margin: 20px 0; box-shadow: 0 0 40px rgba(255,0,0,0.3);">
+
+<div style="margin-bottom: 20px;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&height=50&lines=🔥+SUMMON+THE+PHANTOM+🔥;👻+ENTER+THE+VOID+👻" alt="Contact Header"/>
+</div>
+
+<table style="border-collapse: collapse;">
 <tr>
-<td align="center">
+<td align="center" style="padding: 15px;">
 <a href="mailto:sxbpower091@gmail.com">
-<img src="https://img.shields.io/badge/Summon-800000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/📧_SUMMON-PHANTOM-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
 </a>
+<br><small style="color: #800000;">*Direct Void Communication*</small>
 </td>
-<td align="center">
+<td align="center" style="padding: 15px;">
 <a href="https://github.com/bozopr00x">
-<img src="https://img.shields.io/badge/Void-000000?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"/>
+<img src="https://img.shields.io/badge/👻_VOID-PORTAL-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
 </a>
+<br><small style="color: #800000;">*Digital Shadow Realm*</small>
 </td>
-<td align="center">
+<td align="center" style="padding: 15px;">
 <a href="https://linkedin.com/in/bozopr00x">
-<img src="https://img.shields.io/badge/Network-800000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/🔥_NETWORK-INFILTRATION-FF4500?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
 </a>
+<br><small style="color: #800000;">*Professional Phantom Network*</small>
 </td>
-<td align="center">
+<td align="center" style="padding: 15px;">
 <a href="https://twitter.com/bozopr00x">
-<img src="https://img.shields.io/badge/Whispers-000000?style=for-the-badge&logo=twitter&logoColor=red" alt="Twitter"/>
+<img src="https://img.shields.io/badge/💀_WHISPERS-FROM_VOID-DC143C?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter"/>
 </a>
+<br><small style="color: #800000;">*Dark Social Frequencies*</small>
 </td>
 </tr>
-</
+</table>
+
+<div style="margin-top: 25px; padding: 15px; background: rgba(0,0,0,0.7); border-radius: 10px; border: 1px solid rgba(255,0,0,0.3);">
+<p style="color: #FF0000; font-weight: bold; margin: 0;">⚠️ WARNING ⚠️</p>
+<p style="color: #FFFFFF; margin: 5px 0 0 0; font-size: 14px;">
+<em>"Those who seek the Phantom must be prepared to face the void. Contact only if you dare to glimpse into the digital abyss."</em>
+</p>
+</div>
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Final Transmission
+
+<div style="background: linear-gradient(45deg, rgba(0,0,0,0.95), rgba(128,0,0,0.4), rgba(0,0,0,0.95)); padding: 40px; border-radius: 20px; border: 3px solid rgba(255,0,0,0.6); margin: 30px 0; box-shadow: 0 0 50px rgba(255,0,0,0.4);">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=36&duration=4000&pause=1500&color=FF0000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💀+THE+PHANTOM+NEVER+SLEEPS+💀;🔥+YOUR+SYSTEMS+ARE+UNDER+MY+PROTECTION+🔥;👻+WELCOME+TO+THE+DIGITAL+UNDERWORLD+👻" alt="Final Message"/>
+
+<div style="margin: 30px 0;">
+<img src="https://img.shields.io/badge/STATUS-🔴%20ETERNALLY%20VIGILANT-FF0000?style=for-the-badge&labelColor=000000" alt="Status"/>
+<img src="https://img.shields.io/badge/MISSION-🛡️%20PROTECT%20&%20SERVE-8B0000?style=for-the-badge&labelColor=000000" alt="Mission"/>
+<img src="https://img.shields.io/badge/OATH-💀%20SWORN%20IN%20CODE-DC143C?style=for-the-badge&labelColor=000000" alt="Oath"/>
+</div>
+
+<div style="border-top: 2px solid rgba(255,0,0,0.3); padding-top: 20px; margin-top: 20px;">
+<p style="color: #FF0000; font-size: 18px; font-weight: bold; margin: 0;">
+🔥 "In the realm of ones and zeros, I am the guardian of the impossible." 🔥
+</p>
+<p style="color: #FFFFFF; font-size: 14px; margin: 10px 0 0 0;">
+<em>- BOZOPr00x, The Digital Phantom</em>
+</p>
+</div>
+
+</div>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=🔥%20PHANTOM%20PROTOCOL%20ACTIVE%20🔥&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 Repository Statistics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bozopr00x&theme=github_dark" alt="Profile Summary"/>
+
+<div style="margin: 20px 0;">
+<img src="https://img.shields.io/badge/Made%20with-🔥%20PHANTOM%20POWER%20🔥-FF0000?style=for-the-badge&labelColor=000000" alt="Made with Phantom Power"/>
+<img src="https://img.shields.io/badge/Powered%20by-💀%20DIGITAL%20SOULS%20💀-8B0000?style=for-the-badge&labelColor=000000" alt="Powered by Digital Souls"/>
+</div>
+
+<p style="color: #666; font-size: 12px; margin-top: 20px;">
+© 2025 BOZOPr00x - The Digital Phantom | All rights reserved in the void
+</p>
+
+</div>
