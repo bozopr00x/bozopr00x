@@ -50,7 +50,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bozopr00x&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=333333&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bozopr00x&theme=dark&background=0A0A0A&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" />
+<img width="49%" src="https://streak-stats.demolab.com?user=bozopr00x&theme=dark&background=0A0A0A&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&border=333333" />
 
 </div>
 
