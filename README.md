@@ -1,12 +1,16 @@
 <div align="center">
 
+<img src="https://cdn.discordapp.com/banners/1344595499000528906/2a4a411475ac48001e4682c9b4fa45fe.png?size=1024" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 8px 8px 0 0;" />
+
+<img src="https://cdn.discordapp.com/avatars/1344595499000528906/468a76dde79ba2666676199ff9c76dac.png?size=1024" alt="Profile" style="width: 150px; height: 150px; border-radius: 50%; border: 8px solid #0A0A0A; margin-top: -75px; background: #0A0A0A;" />
+
 # BOZO
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Security+Researcher;Reverse+Engineer;Malware+Analyst;Binary+Exploitation+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Security+Researcher;Reverse+Engineer;Malware+Analyst;Binary+Exploitation+Expert" alt="Typing SVG" />
 
 <br/>
 
-<svg width="120" height="120" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+<svg width="80" height="80" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
   <g fill="#FFFFFF">
     <rect x="6" y="8" width="2" height="2" />
     <rect x="24" y="8" width="2" height="2" />
@@ -45,18 +49,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bozopr00x&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=333333&hide_border=false" />
-<img width="49%" src="https://streak-stats.demolab.com?user=bozopr00x&theme=dark&background=0A0A0A&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&border=333333" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bozopr00x&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=333333&hide_border=false)
 
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozopr00x&layout=compact&theme=dark&bg_color=0A0A0A&title_color=FFFFFF&text_color=FFFFFF&border_color=333333&hide_border=false" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bozopr00x&layout=compact&theme=dark&bg_color=0A0A0A&title_color=FFFFFF&text_color=FFFFFF&border_color=333333&hide_border=false)
 
 </div>
 
