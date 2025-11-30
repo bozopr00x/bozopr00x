@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/banners/1344595499000528906/2a4a411475ac48001e4682c9b4fa45fe.png?size=1024" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 8px 8px 0 0;" />
+<img src="https://cdn.discordapp.com/banners/1344595499000528906/c3866f5863a9283135b4d1f4c8a9ea8b.png?size=600" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 8px 8px 0 0;" />
 
 # BOZO
 
