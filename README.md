@@ -4,7 +4,7 @@
 
 # `BOZO // PR00X`
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=1000&color=FFB3B2&center=true&vCenter=true&width=700&height=60&lines=System+Status:+Optimal;Persistent+Threat+Simulation;Malware+Analysis+Operative;Reverse+Engineering+Specialist;0-day+Vulnerability+Research" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=1000&color=FFB3B2&center=true&vCenter=true&width=700&height=60&lines=System+Status:+Optimal;Malware+Analysis+Operative;Reverse+Engineering+Specialist;0-day+Vulnerability+Research" alt="Typing SVG" />
 
 <br/>
 
