@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/banners/1344595499000528906/c3866f5863a9283135b4d1f4c8a9ea8b.png?size=600" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 8px 8px 0 0;" />
+<img src="https://imgg.io/images/2026/04/08/d026498aafe68e309150881671841760.jpg" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 8px 8px 0 0;" />
 
 # `BOZO // PR00X`
 
