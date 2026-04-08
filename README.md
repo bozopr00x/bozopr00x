@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://imgg.io/images/2026/04/08/d026498aafe68e309150881671841760.jpg" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 8px 8px 0 0;" />
+<img src="https://imgg.io/images/2026/04/08/d026498aafe68e309150881671841760.jpg" alt="Banner" style="width: 50%; max-width: 800px; border-radius: 8px 8px 0 0;" />
 
-# `BOZO // PR00X`
+# `BOZO // PR00X<3`
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=1000&color=FFB3B2&center=true&vCenter=true&width=700&height=60&lines=System+Status:+Optimal;Persistent+Threat+Simulation;Malware+Analysis+Operative;Reverse+Engineering+Specialist;0-day+Vulnerability+Research" alt="Typing SVG" />
 
