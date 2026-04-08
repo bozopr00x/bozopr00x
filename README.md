@@ -2,64 +2,33 @@
 
 <img src="https://cdn.discordapp.com/banners/1344595499000528906/c3866f5863a9283135b4d1f4c8a9ea8b.png?size=600" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 8px 8px 0 0;" />
 
-# BOZO
+# `BOZO // PR00X`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Security+Researcher;Reverse+Engineer;Malware+Analyst;Binary+Exploitation+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=1000&color=FFB3B2&center=true&vCenter=true&width=700&height=60&lines=System+Status:+Optimal;Persistent+Threat+Simulation;Malware+Analysis+Operative;Reverse+Engineering+Specialist;0-day+Vulnerability+Research" alt="Typing SVG" />
 
 <br/>
 
-<svg width="80" height="80" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#FFFFFF">
-    <rect x="6" y="8" width="2" height="2" />
-    <rect x="24" y="8" width="2" height="2" />
-    <rect x="4" y="10" width="2" height="2" />
-    <rect x="26" y="10" width="2" height="2" />
-    <rect x="2" y="12" width="2" height="4" />
-    <rect x="28" y="12" width="2" height="4" />
-    <rect x="4" y="16" width="2" height="2" />
-    <rect x="26" y="16" width="2" height="2" />
-    <rect x="8" y="10" width="16" height="2" />
-    <rect x="10" y="12" width="2" height="2" />
-    <rect x="20" y="12" width="2" height="2" />
-    <rect x="12" y="14" width="8" height="2" />
-    <rect x="14" y="16" width="4" height="2" />
-    <rect x="10" y="18" width="2" height="2" />
-    <rect x="20" y="18" width="2" height="2" />
-    <rect x="8" y="20" width="2" height="2" />
-    <rect x="22" y="20" width="2" height="2" />
-    <rect x="12" y="20" width="2" height="4" />
-    <rect x="18" y="20" width="2" height="4" />
-    <rect x="14" y="22" width="4" height="2" />
-  </g>
-  <g fill="#FFFFFF">
-    <rect x="12" y="12" width="2" height="2" />
-    <rect x="18" y="12" width="2" height="2" />
-  </g>
+<svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12 2L3 7V17L12 22L21 17V7L12 2Z" fill="#ff525c"/>
+  <path d="M9 12L11 14L15 10" stroke="#131313" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-bozopr00x-0A0A0A?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)](https://github.com/bozopr00x)
-[![Discord](https://img.shields.io/badge/Discord-BOZO-0A0A0A?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0A0A)](https://discord.com/users/1167502926013542400)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A)](https://0psk.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-OPERATIVE-131313?style=for-the-badge&logo=github&logoColor=FFB3B2&labelColor=1c1b1b&borderColor=ff525c)](https://github.com/bozopr00x)
+[![Discord](https://img.shields.io/badge/Discord-CONNECT-131313?style=for-the-badge&logo=discord&logoColor=FFB3B2&labelColor=1c1b1b&borderColor=ff525c)](https://discord.com/users/1167502926013542400)
+[![Portfolio](https://img.shields.io/badge/Labs-VISIT-131313?style=for-the-badge&logo=vercel&logoColor=FFB3B2&labelColor=1c1b1b&borderColor=ff525c)](https://bozo.xo.je)
 
 </div>
 
 ---
-
-## GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bozopr00x&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=333333&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bozopr00x&layout=compact&theme=dark&bg_color=0A0A0A&title_color=FFFFFF&text_color=FFFFFF&border_color=333333&hide_border=false)
-
+  <h2 style="color: #ffb3b2;">01 / CORE_EXPERTISE</h2>
+  <code>ETH_0x5F92 // SEC_RESEARCH</code>
 </div>
 
----
-
-## Core Expertise
+<br/>
 
 <div align="center">
 
@@ -67,60 +36,40 @@
 <tr>
 <td width="50%" valign="top">
 
-### Reverse Engineering
+### 🧪 Reverse Engineering
+```text
+[████████████████████] 96%
 ```
-████████████████████ 96%
-```
-Binary Analysis • Decompilation • Code Flow Analysis
+> Static & Dynamic Analysis, IDA Pro, Ghidra, Decompilation of Heavily Obfuscated Binaries, Code Flow Mapping.
 
 </td>
 <td width="50%" valign="top">
 
-### Malware Analysis
+### 🦠 Malware Analysis
+```text
+[███████████████████░] 93%
 ```
-███████████████████░ 93%
-```
-Static/Dynamic Analysis • Behavior Detection
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Binary Exploitation
-```
-███████████████████░ 94%
-```
-Buffer Overflows • ROP Chains • Shellcode
-
-</td>
-<td width="50%" valign="top">
-
-### Exploit Development
-```
-██████████████████░░ 89%
-```
-0-day Research • Vulnerability Analysis
+> Ransomware Behavior Tracking, API Hooking, PE/ELF Header Forgery Detection, Unpacking Custom Crypters.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Advanced Debugging
+### ⚔️ Binary Exploitation
+```text
+[███████████████████░] 94%
 ```
-██████████████████░░ 88%
-```
-GDB • WinDbg • x64dbg • IDA Debugger
+> Buffer Overflows, ROP Chains construction, Custom Shellcode, Bypassing ASLR & DEP, Kernel Exploits.
 
 </td>
 <td width="50%" valign="top">
 
-### Security Research
+### 🛡️ Exploit Development
+```text
+[██████████████████░░] 89%
 ```
-█████████████████░░░ 87%
-```
-CVE Discovery • Patch Analysis
+> 0-day Research, CVE Discovery, Patch Diffing, Advanced Rootkits and Persistent Threat Simulation.
 
 </td>
 </tr>
@@ -130,158 +79,75 @@ CVE Discovery • Patch Analysis
 
 ---
 
-## Technical Arsenal
-
 <div align="center">
-
-### Tools & Technologies
-
-![Assembly](https://img.shields.io/badge/Assembly-0A0A0A?style=flat-square&logo=assembly&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-0A0A0A?style=flat-square&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-0A0A0A?style=flat-square&logoColor=white)
-![x86/x64](https://img.shields.io/badge/x86%2Fx64-0A0A0A?style=flat-square&logoColor=white)
-![C](https://img.shields.io/badge/C-0A0A0A?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-0A0A0A?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-0A0A0A?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=flat-square&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_Internals-0A0A0A?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Kernel-0A0A0A?style=flat-square&logo=linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-0A0A0A?style=flat-square&logoColor=white)
-![Frida](https://img.shields.io/badge/Frida-0A0A0A?style=flat-square&logoColor=white)
-
+  <h2 style="color: #ffb3b2;">02 / TECHNICAL_ARSENAL</h2>
+  <code>// TOOLS & TECHNOLOGIES</code>
 </div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bozopr00x&theme=react-dark&bg_color=0A0A0A&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=false&border_color=333333)](https://github.com/bozopr00x)
-
-</div>
-
----
-
-## Experience & Achievements
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%">
-
-<div align="center">
-<img src="https://img.shields.io/badge/CTF_Competitions-0A0A0A?style=for-the-badge&logoColor=white" />
-</div>
-
-```
-Multiple CTF Wins & Top Rankings
-Specialized in Reverse Engineering
-Binary Exploitation Expert
-```
-
-</td>
-<td width="33%">
-
-<div align="center">
-<img src="https://img.shields.io/badge/Security_Research-0A0A0A?style=for-the-badge&logoColor=white" />
-</div>
-
-```
-Vulnerability Discovery & Analysis
-Malware Reverse Engineering
-Advanced Threat Analysis
-```
-
-</td>
-<td width="33%">
-
-<div align="center">
-<img src="https://img.shields.io/badge/Professional_Work-0A0A0A?style=for-the-badge&logoColor=white" />
-</div>
-
-```
-Security Researcher & Reverse Engineer
-Binary Analysis & Exploit Development
-Malware Analysis & Threat Intelligence
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## Current Focus
-
-<div align="center">
-
-```
-Advanced Malware Analysis
-0-day Vulnerability Research
-Reverse Engineering Complex Binaries
-Exploit Development & Mitigation
-Security Tool Development
-```
-
-</div>
-
----
-
-<div align="center">
 
 <br/>
 
-<svg width="80" height="80" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#FFFFFF">
-    <rect x="6" y="8" width="2" height="2" />
-    <rect x="24" y="8" width="2" height="2" />
-    <rect x="4" y="10" width="2" height="2" />
-    <rect x="26" y="10" width="2" height="2" />
-    <rect x="2" y="12" width="2" height="4" />
-    <rect x="28" y="12" width="2" height="4" />
-    <rect x="4" y="16" width="2" height="2" />
-    <rect x="26" y="16" width="2" height="2" />
-    <rect x="8" y="10" width="16" height="2" />
-    <rect x="10" y="12" width="2" height="2" />
-    <rect x="20" y="12" width="2" height="2" />
-    <rect x="12" y="14" width="8" height="2" />
-    <rect x="14" y="16" width="4" height="2" />
-    <rect x="10" y="18" width="2" height="2" />
-    <rect x="20" y="18" width="2" height="2" />
-    <rect x="8" y="20" width="2" height="2" />
-    <rect x="22" y="20" width="2" height="2" />
-    <rect x="12" y="20" width="2" height="4" />
-    <rect x="18" y="20" width="2" height="4" />
-    <rect x="14" y="22" width="4" height="2" />
-  </g>
-  <g fill="#FFFFFF">
-    <rect x="12" y="12" width="2" height="2" />
-    <rect x="18" y="12" width="2" height="2" />
-  </g>
-</svg>
+<div align="center">
+
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-1c1b1b?style=for-the-badge&logoColor=FFB3B2&color=131313)
+![Ghidra](https://img.shields.io/badge/Ghidra-1c1b1b?style=for-the-badge&logoColor=FFB3B2&color=131313)
+![x86/x64](https://img.shields.io/badge/x86%2Fx64_Assembly-1c1b1b?style=for-the-badge&logo=assembly&logoColor=FFB3B2&color=131313)
+![C](https://img.shields.io/badge/C-1c1b1b?style=for-the-badge&logo=c&logoColor=FFB3B2&color=131313)
+![CPP](https://img.shields.io/badge/C_Plus_Plus-1c1b1b?style=for-the-badge&logo=cplusplus&logoColor=FFB3B2&color=131313)
+![Python](https://img.shields.io/badge/Python-1c1b1b?style=for-the-badge&logo=python&logoColor=FFB3B2&color=131313)
+![Go](https://img.shields.io/badge/Golang-1c1b1b?style=for-the-badge&logo=go&logoColor=FFB3B2&color=131313)
+![Rust](https://img.shields.io/badge/Rust-1c1b1b?style=for-the-badge&logo=rust&logoColor=FFB3B2&color=131313)
+![Windows](https://img.shields.io/badge/Windows_Internals-1c1b1b?style=for-the-badge&logo=windows&logoColor=FFB3B2&color=131313)
+![Linux](https://img.shields.io/badge/Linux_Kernel-1c1b1b?style=for-the-badge&logo=linux&logoColor=FFB3B2&color=131313)
+![Metasploit](https://img.shields.io/badge/Metasploit-1c1b1b?style=for-the-badge&logoColor=FFB3B2&color=131313)
+![Frida](https://img.shields.io/badge/Frida-1c1b1b?style=for-the-badge&logoColor=FFB3B2&color=131313)
+
+</div>
+
+---
+
+<div align="center">
+  <h2 style="color: #ffb3b2;">03 / SYSTEM_DIAGNOSTICS</h2>
+  <code>// METRICS & GITHUB STATS</code>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bozopr00x&show_icons=true&theme=aurora&bg_color=1c1b1b&title_color=ffb3b2&text_color=e5e2e1&icon_color=ff525c&border_color=353535" alt="GitHub Stats" />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-bozopr00x-0A0A0A?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)](https://github.com/bozopr00x)
-[![Discord](https://img.shields.io/badge/Discord-BOZO-0A0A0A?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0A0A)](https://discord.com/users/1167502926013542400)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A)](https://0psk.vercel.app)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozopr00x&layout=compact&theme=aurora&bg_color=1c1b1b&title_color=ffb3b2&text_color=e5e2e1&border_color=353535" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bozopr00x&label=Profile%20Views&color=0A0A0A&style=flat-square" alt="Profile Views" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bozopr00x&theme=react-dark&bg_color=131313&color=e5e2e1&line=ffb3b2&point=ff525c&area=true&border_color=353535)](https://github.com/bozopr00x)
 
-<br/><br/>
+</div>
 
-**© 2025 BOZO**
+---
 
-Security Researcher & Reverse Engineer
+<div align="center">
+  <h2 style="color: #ffb3b2;">04 / RECENT_CTF</h2>
+  <code>CHALLENGE: GO SIGMA DIAGNOSTIC</code>
+</div>
+
+<div align="center">
+
+> A strange diagnostic binary was recovered from an isolated machine. Its behavior mimics a harmless system utility, but deeper inspection exposes several unusual mechanisms: fake PowerShell download sequences, randomized malicious URLs, and conditional behavior triggered via the DEBUG_MODE environment variable.
+
+**STATUS:** `[ PENDING_ANALYSIS ]` | **TIER:** `EASY` | **FLAG:** `GOBZ{...}`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bozopr00x&label=Connections&color=ff525c&style=for-the-badge" alt="Profile Views" />
+
+<br/>
+
+**© 2026 BOZO** <br>
+`[ SYSTEM HALTED ]`
 
 </div>
