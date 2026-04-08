@@ -135,23 +135,7 @@
 
 ---
 
-<div align="center">
-  <h2 style="color: #ffb3b2;">04 / SYSTEM_DIAGNOSTICS</h2>
-  <code>// GITHUB STATS</code>
-</div>
 
-<div align="center">
-  <h2 style="color: #ffb3b2;">04 / SYSTEM_DIAGNOSTICS</h2>
-  <code>// GITHUB STATS</code>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bozopr00x&show_icons=true&theme=dark&bg_color=1c1b1b&title_color=ffb3b2&text_color=e5e2e1&icon_color=ff525c&border_color=353535" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozopr00x&layout=compact&theme=dark&bg_color=1c1b1b&title_color=ffb3b2&text_color=e5e2e1&border_color=353535" alt="Top Languages" />
-</p>
 
 <p align="center">
   <a href="https://github.com/bozopr00x">
