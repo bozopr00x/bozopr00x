@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://imgg.io/images/2026/04/08/d026498aafe68e309150881671841760.jpg" alt="Banner" style="width: 50%; max-width: 800px; border-radius: 8px 8px 0 0;" />
+<img src="https://cdn.discordapp.com/banners/1344595499000528906/c3866f5863a9283135b4d1f4c8a9ea8b.png?size=600" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 8px 8px 0 0;" />
 
-# `BOZO // PR00X<3`
+# `BOZO // PR00X`
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=1000&color=FFB3B2&center=true&vCenter=true&width=700&height=60&lines=System+Status:+Optimal;Persistent+Threat+Simulation;Malware+Analysis+Operative;Reverse+Engineering+Specialist;0-day+Vulnerability+Research" alt="Typing SVG" />
 
@@ -142,13 +142,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bozopr00x&show_icons=true&theme=aurora&bg_color=1c1b1b&title_color=ffb3b2&text_color=e5e2e1&icon_color=ff525c&border_color=353535" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bozopr00x&show_icons=true&theme=aurora&bg_color=1c1b1b&title_color=ffb3b2&text_color=e5e2e1&icon_color=ff525c&border_color=353535)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozopr00x&layout=compact&theme=aurora&bg_color=1c1b1b&title_color=ffb3b2&text_color=e5e2e1&border_color=353535" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bozopr00x&layout=compact&theme=aurora&bg_color=1c1b1b&title_color=ffb3b2&text_color=e5e2e1&border_color=353535)
 
-<br/><br/>
+<br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bozopr00x&theme=react-dark&bg_color=131313&color=e5e2e1&line=ffb3b2&point=ff525c&area=true&border_color=353535)](https://github.com/bozopr00x)
 
