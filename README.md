@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/banners/1344595499000528906/c3866f5863a9283135b4d1f4c8a9ea8b.png?size=600" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 8px 8px 0 0;" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1c1b1b&height=180&section=header&text=BOZO%20//%20PR00X&fontSize=45&fontColor=ffb3b2&animation=fadeIn&desc=SECURITY%20RESEARCHER%20%2F%2F%20MALWARE%20ANALYST&descAlignY=70&descColor=e5e2e1" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 8px 8px 0 0;" />
 
 # `BOZO // PR00X`
 
