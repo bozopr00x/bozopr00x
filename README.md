@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 style="color: #ff525c; font-weight: normal; margin-bottom: 0;">BOZO // PR00X</h1>
+  <h1 style="color: #ff525c; font-weight: normal; margin-bottom: 0;">BOZO</h1>
   <p style="color: #ffb3b2; font-family: monospace; font-size: 14px;">
-    Malware Analysis Operative | Reverse Engineering Specialist | 0-day Vulnerability Research
+    Malware Analysis | Reverse Engineering
   </p>
   <br>
   <a href="https://github.com/bozopr00x"><img src="https://img.shields.io/badge/GitHub-131313?style=flat-square&logo=github&logoColor=ffb3b2&borderColor=ff525c" alt="GitHub"></a>
@@ -13,10 +13,10 @@
 
 ### / SUMMARY
 
-*   **Focus:** Malware Analysis, Reverse Engineering, Exploit Development
-*   **Reverse Engineering:** Static & Dynamic Analysis, IDA Pro, Ghidra, Decompilation of Heavily Obfuscated Binaries, Code Flow Mapping
-*   **Malware Analysis:** Ransomware Behavior Tracking, API Hooking, PE/ELF Header Forgery Detection, Unpacking Custom Crypters
-*   **Exploit Development:** Buffer Overflows, ROP Chains construction, Custom Shellcode, Bypassing ASLR & DEP, Kernel Exploits
+*   **Focus:** Malware Analysis, Reverse Engineering, Software Security
+*   **Reverse Engineering:** Static & Dynamic Analysis, IDA Pro, Ghidra, Binary Analysis, Code Flow Mapping
+*   **Malware Analysis:** Behavior Analysis, API Monitoring, PE/ELF Inspection, Binary Unpacking
+*   **Security Research:** Memory Corruption, Code Analysis, System Protection Mechanisms
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-### / ARSENAL
+### / TOOLSET
 
 <p>
   <img src="https://img.shields.io/badge/IDA_Pro-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b" alt="IDA Pro">
