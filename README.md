@@ -2,7 +2,7 @@
 
   <p align="right">
     <img src="https://imgg.io/images/2026/04/08/d026498aafe68e309150881671841760.jpg"
-         width="110"
+         width="200"
          style="border-radius: 60px;" />
   </p>
 
