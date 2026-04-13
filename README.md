@@ -3,7 +3,7 @@
   <p align="right">
     <img src="https://imgg.io/images/2026/04/08/d026498aafe68e309150881671841760.jpg"
          width="110"
-         style="border-radius: 12px;" />
+         style="border-radius: 60px;" />
   </p>
 
   <h1 style="color: #ff525c; font-weight: normal; margin-bottom: 0;">BOZO</h1>
