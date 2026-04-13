@@ -1,12 +1,28 @@
 <div align="center">
+
+  <p align="right">
+    <img src="https://imgg.io/images/2026/04/08/d026498aafe68e309150881671841760.jpg"
+         width="110"
+         style="border-radius: 12px;" />
+  </p>
+
   <h1 style="color: #ff525c; font-weight: normal; margin-bottom: 0;">BOZO</h1>
   <p style="color: #ffb3b2; font-family: monospace; font-size: 14px;">
     Malware Analysis | Reverse Engineering
   </p>
+
   <br>
-  <a href="https://github.com/bozopr00x"><img src="https://img.shields.io/badge/GitHub-131313?style=flat-square&logo=github&logoColor=ffb3b2&borderColor=ff525c" alt="GitHub"></a>
-  <a href="https://discord.com/users/1167502926013542400"><img src="https://img.shields.io/badge/Discord-131313?style=flat-square&logo=discord&logoColor=ffb3b2&borderColor=ff525c" alt="Discord"></a>
-  <a href="https://bozo.xo.je"><img src="https://img.shields.io/badge/Portfolio-131313?style=flat-square&logo=vercel&logoColor=ffb3b2&borderColor=ff525c" alt="Portfolio"></a>
+
+  <a href="https://github.com/bozopr00x">
+    <img src="https://img.shields.io/badge/GitHub-131313?style=flat-square&logo=github&logoColor=ffb3b2&borderColor=ff525c">
+  </a>
+  <a href="https://discord.com/users/1167502926013542400">
+    <img src="https://img.shields.io/badge/Discord-131313?style=flat-square&logo=discord&logoColor=ffb3b2&borderColor=ff525c">
+  </a>
+  <a href="https://bozo.xo.je">
+    <img src="https://img.shields.io/badge/Portfolio-131313?style=flat-square&logo=vercel&logoColor=ffb3b2&borderColor=ff525c">
+  </a>
+
 </div>
 
 ---
@@ -16,7 +32,7 @@
 *   **Focus:** Malware Analysis, Reverse Engineering, Software Security
 *   **Reverse Engineering:** Static & Dynamic Analysis, IDA Pro, Ghidra, Binary Analysis, Code Flow Mapping
 *   **Malware Analysis:** Behavior Analysis, API Monitoring, PE/ELF Inspection, Binary Unpacking
-*   **Security Research:** Memory Corruption, Code Analysis, System Protection Mechanisms
+*   **Security Research:** Memory Analysis, Code Integrity, System Protection
 
 ---
 
@@ -30,28 +46,31 @@
 ### / TOOLSET
 
 <p>
-  <img src="https://img.shields.io/badge/IDA_Pro-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b" alt="IDA Pro">
-  <img src="https://img.shields.io/badge/Ghidra-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b" alt="Ghidra">
-  <img src="https://img.shields.io/badge/Binary_Ninja-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b" alt="Binary Ninja">
-  <img src="https://img.shields.io/badge/x64dbg-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b" alt="x64dbg">
-  <img src="https://img.shields.io/badge/OllyDbg-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b" alt="OllyDbg">
-  <img src="https://img.shields.io/badge/ASM_x86%2Fx64-1c1b1b?style=flat-square&logo=assembly&logoColor=ffb3b2&color=131313&labelColor=1c1b1b" alt="x86/x64 ASM">
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-1c1b1b?style=flat-square&logo=c&logoColor=ffb3b2&color=131313&labelColor=1c1b1b" alt="C/C++">
-  <img src="https://img.shields.io/badge/Golang-1c1b1b?style=flat-square&logo=go&logoColor=ffb3b2&color=131313&labelColor=1c1b1b" alt="Golang">
-  <img src="https://img.shields.io/badge/Python-1c1b1b?style=flat-square&logo=python&logoColor=ffb3b2&color=131313&labelColor=1c1b1b" alt="Python">
-  <img src="https://img.shields.io/badge/Windows_Internals-1c1b1b?style=flat-square&logo=windows&logoColor=ffb3b2&color=131313&labelColor=1c1b1b" alt="Windows Internals">
-  <img src="https://img.shields.io/badge/Metasploit-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Frida-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b" alt="Frida">
+  <img src="https://img.shields.io/badge/IDA_Pro-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b">
+  <img src="https://img.shields.io/badge/Ghidra-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b">
+  <img src="https://img.shields.io/badge/Binary_Ninja-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b">
+  <img src="https://img.shields.io/badge/x64dbg-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b">
+  <img src="https://img.shields.io/badge/OllyDbg-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b">
+  <img src="https://img.shields.io/badge/ASM_x86%2Fx64-1c1b1b?style=flat-square&logo=assembly&logoColor=ffb3b2&color=131313&labelColor=1c1b1b">
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-1c1b1b?style=flat-square&logo=c&logoColor=ffb3b2&color=131313&labelColor=1c1b1b">
+  <img src="https://img.shields.io/badge/Golang-1c1b1b?style=flat-square&logo=go&logoColor=ffb3b2&color=131313&labelColor=1c1b1b">
+  <img src="https://img.shields.io/badge/Python-1c1b1b?style=flat-square&logo=python&logoColor=ffb3b2&color=131313&labelColor=1c1b1b">
+  <img src="https://img.shields.io/badge/Windows_Internals-1c1b1b?style=flat-square&logo=windows&logoColor=ffb3b2&color=131313&labelColor=1c1b1b">
+  <img src="https://img.shields.io/badge/Metasploit-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b">
+  <img src="https://img.shields.io/badge/Frida-1c1b1b?style=flat-square&logoColor=ffb3b2&color=131313&labelColor=1c1b1b">
 </p>
 
 ---
 
 <div align="center">
   <a href="https://github.com/bozopr00x">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bozopr00x&theme=react-dark&bg_color=131313&color=e5e2e1&line=ffb3b2&point=ff525c&area=true&border_color=1c1b1b&hide_border=true" width="80%" alt="Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bozopr00x&theme=react-dark&bg_color=131313&color=e5e2e1&line=ffb3b2&point=ff525c&area=true&border_color=1c1b1b&hide_border=true" width="80%">
   </a>
   <br><br>
   <p style="font-family: monospace; font-size: 13px; color: #e5e2e1;">
-    &copy; 2026 BOZO &nbsp;&bull;&nbsp; <a href="https://bozo.xo.je" style="color: #ffb3b2; text-decoration: none;">ACCESS CENTRAL LAB</a>
+    &copy; 2026 BOZO &nbsp;&bull;&nbsp;
+    <a href="https://bozo.xo.je" style="color: #ffb3b2; text-decoration: none;">
+      ACCESS CENTRAL LAB
+    </a>
   </p>
 </div>
