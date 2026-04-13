@@ -13,9 +13,6 @@
 
   <br>
 
-  <a href="https://github.com/bozopr00x">
-    <img src="https://img.shields.io/badge/GitHub-131313?style=flat-square&logo=github&logoColor=ffb3b2&borderColor=ff525c">
-  </a>
   <a href="https://discord.com/users/1167502926013542400">
     <img src="https://img.shields.io/badge/Discord-131313?style=flat-square&logo=discord&logoColor=ffb3b2&borderColor=ff525c">
   </a>
