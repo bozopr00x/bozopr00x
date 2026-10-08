@@ -16,7 +16,7 @@
   <a href="https://discord.com/users/1167502926013542400">
     <img src="https://img.shields.io/badge/Discord-131313?style=flat-square&logo=discord&logoColor=ffb3b2&borderColor=ff525c">
   </a>
-  <a href="https://bozo.xo.je">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-131313?style=flat-square&logo=vercel&logoColor=ffb3b2&borderColor=ff525c">
   </a>
 
@@ -66,7 +66,7 @@
   <br><br>
   <p style="font-family: monospace; font-size: 13px; color: #e5e2e1;">
     &copy; 2026 BOZO &nbsp;&bull;&nbsp;
-    <a href="https://bozo.xo.je" style="color: #ffb3b2; text-decoration: none;">
+    <a href="" style="color: #ffb3b2; text-decoration: none;">
       ACCESS CENTRAL LAB
     </a>
   </p>
